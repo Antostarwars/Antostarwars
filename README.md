@@ -1,5 +1,8 @@
 # 💫 About Me:
-🔭 I’m currently working on Java Development<br>🌱 I’m currently studying CyberSecurity<br>💬 Ask me about Minecraft Plugin & Discord Bot<br>⚡ You can contact me [here](https://discord.starcreations.it/) or hello@antostarwars.xyz
+🔭 I’m currently working on Java & C# Development
+<br>🌱 I’m currently studying CyberSecurity & Web Development
+<br>💬 Ask me about everything! I really like to learn new things :))
+<br>⚡ You can contact me [here](https://discord.starcreations.it/) or hello@antostarwars.xyz
 
 
 ## 🌐 Socials:
