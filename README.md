@@ -2,7 +2,7 @@
 🔭 I’m currently working on Java & C# Development
 <br>🌱 I’m currently studying CyberSecurity & Web Development
 <br>💬 Ask me about everything! I really like to learn new things :))
-<br>⚡ You can contact me on [Discord](https://discord.starcreations.it/) or hello@antostarwars.xyz
+<br>⚡ You can contact me on [Discord](https://discord.starcreations.it/) or via [Email](mailto:hello@antostarwars.xyz)
 
 
 ## 🌐 Socials:
